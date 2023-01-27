@@ -1,5 +1,5 @@
 ### borger
-![https://tenor.com/view/chicken-gif-24568954]
+!(https://tenor.com/view/chicken-gif-24568954)
 
 <!--
 **BeanRobinson/BeanRobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
