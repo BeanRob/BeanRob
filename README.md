@@ -1,8 +1,8 @@
-# burber
+# burger
 ![](https://media.tenor.com/kp1RixTg4XIAAAAC/chicken.gif)
 
 <!--
-**BeanRobinson/BeanRobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BeanRob/BeanRob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
